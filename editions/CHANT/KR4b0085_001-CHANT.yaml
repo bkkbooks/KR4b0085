@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0085/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一奉和冬至乾陽殿受朝應詔奉和冬至乾陽殿受朝應詔恭已臨萬㝢宸居御八埏作貢菁茅集來朝圭黻連司儀三揖盛掌禮九賓虔重欄映如璧複殿繞非煙初學記十四古今歲時雜詠三十九作奉和冬至日乾陽殿受朝應制文苑英華百七十五作奉和冬至日乾元殿受朝詩紀百二十
+  hash: sha256:edf926a340a370cdd1bf02c51d6eef15600f8d625222b75954b7eaede25d64a0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0085_CHANT_001-1a.1-h}
+metadata:
+  title: 牛弘集二卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0085.xml
+hash: sha256:864812285c6280468271d3bb488124b9cfcf9bbd2a34d3544ac1b97a8c8895f7
